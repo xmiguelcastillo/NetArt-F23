@@ -1,0 +1,26 @@
+body{
+  background-color: rgb(16, 119, 88);
+  font-family: monospace;
+  text-align: center;
+}
+h1{
+  font-style: italic;
+  padding-top: 10px;
+}
+
+p{
+ font-size: 45px; 
+}
+
+.title{
+  font-weight:bold ;
+}
+#theend{
+  color: navy;
+}
+
+div{
+  padding: 50px;
+  margin: 80px;
+  border: 10px solid black;
+}
