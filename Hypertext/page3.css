@@ -1,0 +1,40 @@
+
+  
+
+
+div{
+  border: solid black;
+  width: 500px;
+  height: 500px;
+}
+
+p{
+  text-align: center;
+}
+pre{
+  color: rgb(23, 123, 166);
+}
+
+body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+  background-image: linear-gradient(to right, rgb(13, 21, 29), rgb(13, 18, 23));
+
+    }
+
+    .text-container {
+      text-align: center;
+    }
+
+    .text {
+      max-width: 80%;
+      margin: 0 auto;
+    }
+
+p{
+color: rgb(23, 123, 166);
+
+}
