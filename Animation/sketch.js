@@ -20,7 +20,7 @@ function draw() {
 
   textAlign(CENTER, CENTER);
   fill(255);
-  textSize(10);
+  textSize(6);
   text("In the heart of the Andes, beneath the equatorial gaze, lies Ecuador—a land where ancient mysteries intertwine with the celestial ballet.", 0, 0);
   
   rotationAngle += random();
