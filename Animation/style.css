@@ -12,14 +12,3 @@ canvas {
   display: block;
 }
 
-#sketch-container {
-  position: absolute;
-  top: 0;
-  left: 0;
-}
-
-.poem {
-  color: white;
-  position: relative;
-  z-index: 1; /* Places the poem on top of the sketch */
-}
