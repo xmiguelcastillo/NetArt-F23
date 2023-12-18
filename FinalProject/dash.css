@@ -1,0 +1,239 @@
+
+body {
+  margin: 0; 
+  padding: 0; 
+  background: url('bg.png') no-repeat center center fixed; 
+  background-size: cover;
+  flex: display;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.top{
+    height: 100px;
+      width: 100%;
+      color: white;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+}
+
+
+
+.title{
+  height: 100px;
+  width: 100%;
+  color: #6699cd;
+  font-size: 35px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+.box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #669966;
+  background: none;
+  height: 500px;   
+  width: 100%;
+  margin-top: 30px;
+}
+
+
+.line1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.pic1 {
+  width: 300px; /* Adjust the width as needed */
+  height: auto; /* Maintain the aspect ratio */
+}
+
+.pic4 {
+  width: 300px; /* Adjust the width as needed */
+  height: auto; /* Maintain the aspect ratio */
+}
+
+.pic {
+  width: 600px; /* Adjust the width as needed */
+  height: auto; /* Maintain the aspect ratio */
+}
+.text{
+  color: white;
+  text-align: center;
+  font-family: monospace;
+  font-size: 15px;
+}
+
+
+.line2 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.iframe-container {
+  display: block;
+  max-width: 100%;  
+  margin: 0 auto; 
+  color: white;
+  text-align: center;
+}
+
+.responsive-iframe {
+  width: 100%;
+  height: 200px;
+}
+
+.left{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+
+.right{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+
+
+
+
+
+
+#circle {
+   
+    width: 1000px; 
+    height: 300px;
+    background-color: rgb(47, 56,62);/* Example styles */
+    border: 4px solid rgb(13, 18, 23);
+    border-radius: 50%; /* Makes the div a circle */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#circle2 {
+    /* Your CSS styles go here */
+    width: 900px; /* Example styles */
+    height: 300px; /* Example styles */
+    background-color: rgb(47, 56,62);/* Example styles */
+    border: 4px solid rgb(13, 18, 23);
+    border-radius: 50%; /* Makes the div a circle */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#circle3 {
+    /* Your CSS styles go here */
+    width: 800px; /* Example styles */
+    height: 300px; /* Example styles */
+    background-color: rgb(47, 56,62);/* Example styles */
+    border: 4px solid rgb(13, 18, 23);
+.top{
+  height: 100px;
+  width: 100%;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+ .top{
+  height: 100px;
+  width: 100%;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+   border-radius: 50%; /* Makes the div a circle */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#circle4 {
+    /* Your CSS styles go here */
+    width: 600px; /* Example styles */
+    height: 300px; /* Example styles */
+    background-color: rgb(47, 56,62);/* Example styles */
+    border: 4px solid rgb(13, 18, 23);
+    border-radius: 50%; /* Makes the div a circle */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#circle5 {
+    /* Your CSS styles go here */
+    width: 300px; /* Example styles */
+    height: 300px; /* Example styles */
+    background-color: rgb(47, 56,62);/* Example styles */
+    border: 4px solid rgb(13, 18, 23);
+    border-radius: 50%; /* Makes the div a circle */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#line{
+  width: 900px;
+  height: 3px;
+  background-color: black;
+}
+
+
+#line2{
+  margin-top: 50px;
+  width: 1000px;
+  height: 3px;
+  background-color: black;
+}
+
+#line3{
+  margin-top: 50px;
+  width: 992px;
+  height: 3px;
+  background-color: black;
+}
+
+#line4{
+  margin-top: 50px;
+  width: 992px;
+  height: 3px;
+  background-color: black;
+}
+
+
+#line5{
+  margin-top: 50px;
+  width: 992px;
+  height: 3px;
+  background-color: black;
+}
+
